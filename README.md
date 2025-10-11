@@ -19,7 +19,7 @@
 
 
 
-<h1>Knoweldge base</h1>
+<h1>Knoweldge Base</h1>
 <img width="1847" height="890" alt="image" src="https://github.com/user-attachments/assets/11103230-8d8a-4809-8b91-c5f704a1ef96" />
 
 
