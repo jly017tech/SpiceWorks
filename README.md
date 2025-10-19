@@ -1,6 +1,3 @@
-<h1># SpiceWorks</h1>
-
-
 <h1>Spiceworks - Ticketing System</h1>
 <p>
   Spiceworks is a free, IT-focused platform that provides tools for IT helpdesk management, network inventory, ticketing, and IT documentation. Designed specifically for small to medium-sized IT environments, Spiceworks allows IT professionals to efficiently manage day-to-day operations, user requests, and system monitoring from a centralized web interface.
